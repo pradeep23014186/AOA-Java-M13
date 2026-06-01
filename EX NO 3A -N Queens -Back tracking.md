@@ -27,8 +27,8 @@ If there is no solution to the problem  print  "Solution does not exist"
 ## Program:
 ```
 Program to implement Reverse a String
-Developed by: Krishna Prasad S
-Register Number: 212223230108
+Developed by: Pradeep Kumar G
+Register Number: 212223230150
 ```
 ```java
 import java.util.Scanner;
